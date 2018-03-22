@@ -82,7 +82,7 @@ class Solution:
 * List spend 596 ms , beats 37.22 %
 * Dict spend  64 ms , beats 57.32 %  
 
-Google Dict特點：
+Google Dict特性：
 1：查找速度快　2：浪費空間　3：key不可以重複，且不可變　4：資料無序排放
 
 
