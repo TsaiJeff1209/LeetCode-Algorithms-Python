@@ -1,4 +1,6 @@
 # Two Sum
+
+## 2018/3/21 Your runtime beats 21.42 % of python3 submissions.
 ```python
 class Solution:
     def twoSum(self, nums, target):
