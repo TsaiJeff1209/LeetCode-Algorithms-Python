@@ -1,6 +1,6 @@
 # Two Sum
 
-## 2018/3/21 Your runtime beats 21.42 % of python3 submissions.
+## 2018/3/21 beats 21.42 % of python3
 ### Spend 6876 ms
 ```python
 class Solution:
@@ -23,7 +23,7 @@ class Solution:
         return [nums.index(i-abs(min(nums))) for i in my_nums if i in nega_nums]     
 ```
 
-## 2018/3/22 Your runtime beats 22.84 % of python3 submissions.
+## 2018/3/22 beats 22.84 % of python3
 ### Spend 4332 ms
 ```python
 class Solution:
@@ -60,7 +60,7 @@ class Solution:
         return [nums.index(n), nums.index(target-n)]
 ```
 
-## 2018/3/23 Your runtime beats 57.23 % of python3 submissions.
+## 2018/3/23 beats 57.23 % of python3
 ### Spend 64 ms
 ```python
 class Solution:
