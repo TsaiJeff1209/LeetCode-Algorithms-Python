@@ -1,4 +1,4 @@
-# Palindrome Number
+# Reverse Integer
 
 ## 2018/3/24 beats 95.87 % of python3
 ### Spend 56 ms
