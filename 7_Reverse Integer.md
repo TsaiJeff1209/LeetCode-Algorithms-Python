@@ -1,7 +1,7 @@
 # Palindrome Number
 
-## 2018/3/25 beats 60.83 % of python3
-### Spend 320 ms
+## 2018/3/24 beats 95.87 % of python3
+### Spend 56 ms
 ```python
 class Solution:
     def reverse(self, x):
