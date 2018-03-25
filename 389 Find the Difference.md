@@ -14,3 +14,15 @@ class Solution:
             s, t = s.replace(s[0],"",1), t.replace(s[0],"",1)
         return t
 ```
+
+```python
+class Solution:
+    def findTheDifference(self, s, t):
+        """
+        :type s: str
+        :type t: str
+        :rtype: str
+        """
+        for i in range(97,123):
+            if s.count(chr(i)) != t.count(chr(i)): return chr(i)
+```
