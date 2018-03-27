@@ -1,6 +1,6 @@
 # Rotate String
 
-## 2018/3/24 beats 95.95 % of python3
+## 2018/3/27 beats 95.95 % of python3
 ### Spend 36 ms
 ```python
 class Solution:
