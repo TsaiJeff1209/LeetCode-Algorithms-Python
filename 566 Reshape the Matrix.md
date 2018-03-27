@@ -1,6 +1,6 @@
 # Reshape the Matrix
 
-## 2018/3/25 beats 48.28 % of python3
+## 2018/3/27 beats 48.28 % of python3
 ### Spend 148 ms
 ```python
 class Solution:
