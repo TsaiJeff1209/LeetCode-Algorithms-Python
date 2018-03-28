@@ -4,10 +4,10 @@
 ### Spend 44 ms
 ```python
 class Solution:
-    def mySqrt(self, x):
+    def singleNumber(self, nums):
         """
-        :type x: int
+        :type nums: List[int]
         :rtype: int
         """
-        return int(x**0.5)
+        return sum(set(nums))*2 - sum(nums)
 ```
