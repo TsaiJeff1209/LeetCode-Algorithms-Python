@@ -1,6 +1,6 @@
 # Add Binary
 
-## 2018/3/27 beats 99.89 % of python3
+## 2018/3/29 beats 99.89 % of python3
 ### Spend 40 ms
 ```python
 class Solution:
