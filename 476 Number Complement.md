@@ -17,5 +17,4 @@ class Solution:
         x = x.replace("0","1")
         x = x.replace("2","0")
         return int(x,2)
-
 ```
