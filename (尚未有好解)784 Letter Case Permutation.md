@@ -17,5 +17,4 @@ class Solution:
                     my_set.add(j[:i]+S[i].lower()+S[i+1:])
                     my_set.add(j[:i]+S[i].upper()+S[i+1:])
         return list(my_set)
-
 ```
