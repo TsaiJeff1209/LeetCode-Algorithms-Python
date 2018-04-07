@@ -1,4 +1,4 @@
-# Detect Capital
+# [Detect Capital](https://leetcode.com/problems/detect-capital/description/)
 
 ## 2018/3/25 beats 95.89 % of python3
 ### Spend 48 ms
