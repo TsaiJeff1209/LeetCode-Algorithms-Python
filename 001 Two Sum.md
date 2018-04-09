@@ -1,4 +1,4 @@
-# Two Sum
+# [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
 
 ## 2018/3/21 beats 21.42 % of python3
 ### Spend 6876 ms
