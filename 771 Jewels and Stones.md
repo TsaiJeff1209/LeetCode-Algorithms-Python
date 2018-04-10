@@ -1,4 +1,4 @@
-# Jewels and Stones
+# [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)
 
 ## 2018/3/28 beats 93.74 % of python3
 ### Spend 44 ms
