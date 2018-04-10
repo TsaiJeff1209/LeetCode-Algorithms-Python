@@ -1,4 +1,4 @@
-# Next Greater Element I
+# [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)
 
 ## 2018/4/7 beats 27.36 % of python3
 ### Spend 124 ms
