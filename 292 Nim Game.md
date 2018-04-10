@@ -1,4 +1,4 @@
-# Nim Game
+# [292. Nim Game](https://leetcode.com/problems/nim-game/)
 
 ## 2018/3/26 beats 100.00 % of python3
 ### Spend 32 ms
