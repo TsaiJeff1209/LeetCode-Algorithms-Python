@@ -1,4 +1,4 @@
-# First Unique Character in a String
+# [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
 
 ## 2018/3/25 beats 86.46 % of python3
 ### Spend 88 ms
