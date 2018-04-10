@@ -1,4 +1,4 @@
-# Self Dividing Numbers
+# [728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/)
 
 ## 2018/3/27 beats 69.34 % of python3
 ### Spend 76 ms
