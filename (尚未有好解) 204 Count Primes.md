@@ -1,4 +1,4 @@
-# Count Primes
+# [204. Count Primes](https://leetcode.com/problems/count-primes/)
 依然沒有找到時限內算出的算法好方法，第一名根本神
 ## 2018/3/28 beats xx.xx % of python3
 ### Spend xx ms
