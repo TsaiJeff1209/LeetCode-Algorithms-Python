@@ -1,4 +1,4 @@
-# Distribute Candies
+# [575. Distribute Candies](https://leetcode.com/problems/distribute-candies/description/)
 
 ## 2018/4/8 beats 98.91 % of python3
 ### Spend 124 ms
