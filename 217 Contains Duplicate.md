@@ -1,4 +1,4 @@
-# Contains Duplicate
+# [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
 
 ## 2018/3/28 beats 99.51 % of python3
 ### Spend 44 ms
