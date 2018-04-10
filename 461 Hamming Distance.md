@@ -1,4 +1,4 @@
-# Hamming Distance
+# [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/description/)
 
 ## 2018/3/30 beats 93.20 % of python3
 ### Spend 40 ms
