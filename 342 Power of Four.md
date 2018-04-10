@@ -1,4 +1,4 @@
-# Power of Four
+# [342. Power of Four](https://leetcode.com/problems/power-of-four/description/)
 
 ## 2018/3/28 beats 95.15 % of python3
 ### Spend 56 ms
