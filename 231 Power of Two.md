@@ -1,4 +1,4 @@
-# Power of Two
+# [231. Power of Two](https://leetcode.com/problems/power-of-two/description/)
 
 ## 2018/3/28 beats 95.30 % of python3
 ### Spend 56 ms
