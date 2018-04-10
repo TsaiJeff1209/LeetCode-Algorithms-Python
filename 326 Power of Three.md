@@ -1,4 +1,4 @@
-# Power of Three
+# [326. Power of Three](https://leetcode.com/problems/power-of-three/description/)
 
 ## 2018/3/27 beats 80.00 % of python3
 ### Spend 468  ms
