@@ -1,4 +1,4 @@
-# Perfect Number
+# [507. Perfect Number](https://leetcode.com/problems/perfect-number/description/)
 
 ## 2018/3/28 beats 56.77 % of python3
 ### Spend 64 ms
