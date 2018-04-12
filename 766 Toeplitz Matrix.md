@@ -48,6 +48,7 @@ class Solution:
 ## 2018/4/12 beats 91.43 % of python3
 ### Spend 56 ms
 ### 參照別人做法
+個人覺得此code易讀且易改，比我的好很多，只是不清楚為何效能和自己的差不多
 ```python
 class Solution:
     def isToeplitzMatrix(self, matrix):
