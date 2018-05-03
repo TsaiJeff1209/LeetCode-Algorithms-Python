@@ -17,7 +17,7 @@ class Solution:
             return nums.index(target)
 ```
 
-##　第一名跟神一樣
+## 第一名跟神一樣
 ```python
 class Solution:
     def searchInsert(self, nums, target):
