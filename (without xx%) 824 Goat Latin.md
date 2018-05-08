@@ -1,7 +1,7 @@
 # [824. Goat Latin](https://leetcode.com/problems/goat-latin/description/)
 
 ## 2018/5/8 beats XX.XX % of python3
-## Sorry. We do not have enough accepted submissions to show runtime distribution chart.
+### Sorry. We do not have enough accepted submissions to show runtime distribution chart.
 ### Spend 40 ms
 ```python
 class Solution:
