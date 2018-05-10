@@ -1,5 +1,6 @@
 # [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
 
+## [Fibonacci number](https://en.wikipedia.org/wiki/Fibonacci_number)
 ## 2018/5/10 beats 100.00 % of python3
 ### Spend 32 ms
 ```python
