@@ -1,4 +1,4 @@
-# [171. Excel Sheet Column Number](https://leetcode.com/submissions/detail/155510495/)
+# [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/)
 
 ## 2018/5/23 beats 99.23 % of python3
 ### Spend 56 ms
