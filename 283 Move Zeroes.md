@@ -1,6 +1,6 @@
 # [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
 ---
-### 2018/6/1 beats 99.30 % of python3
+## 2018/6/1 beats 99.30 % of python3
 ### Spend 48 ms
 ### 這樣也算是 modify 呀~ XD
 ```python
