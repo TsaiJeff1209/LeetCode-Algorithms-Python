@@ -16,8 +16,7 @@ class Solution:
         nums[:n] = my_nums
         nums[n:] = [0]*(len(nums)-n)
 ```
-
-
+---
 ## 2018/4/8 beats 27.14 % of python3
 ### Spend 108 ms
 ```python
