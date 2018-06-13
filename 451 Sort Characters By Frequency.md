@@ -21,6 +21,7 @@ class Solution:
         return s
 ```
 ---
+## package : from collections import Counter
 ## 2018/6/13 beats 99.60 % of python3
 ### Spend 44 ms
 ```python
