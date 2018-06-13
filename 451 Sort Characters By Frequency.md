@@ -20,3 +20,17 @@ class Solution:
         for i in sorted(d,reverse=True): s += ''.join([j*i for j in d[i]])
         return s
 ```
+---
+## 2018/6/13 beats 99.60 % of python3
+### Spend 44 ms
+```python
+from collections import Counter
+class Solution:
+    def frequencySort(self, s):
+        """
+        :type s: str
+        :rtype: str
+        """
+        c = Counter(s)
+        return ''.join([i*j for i,j in c.most_common(len(c))])
+```
